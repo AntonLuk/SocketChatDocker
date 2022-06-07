@@ -1,0 +1,28 @@
+
+version: "3"
+
+services:
+
+  server:
+
+    build: hosting/socket-chat-2
+
+    command: node server.js
+
+    ports:
+      - "3005:3005"
+    depends_on:
+      - mongo
+
+  mongo:
+
+    image: mongo
+    container_name: mongo
+    environment:
+      - PUID=1000
+      - PGID=1000
+    volumes:
+      - /home/barry/mongodb/database:/data/db
+    ports:
+      - "27018:27017"
+    restart: unless-stopped

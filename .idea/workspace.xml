@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a347bd53-6ad3-4c7a-92ae-54a603147551" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../chat/.idea/chat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esoft-chat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../etagi-services" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../r7-legion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/socket-chat-group.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hosting/socket-chat-2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hosting/socket-chat-2/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket-chat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket-chat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testAuth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../school-chat/public/chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chat/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../school-chat/public/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../school-chat/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../school-server/server/src/Hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hosting/socket-chat-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hosting/socket-chat-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hosting/socket-chat-2/.idea/socket-chat-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hosting/socket-chat-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hosting/socket-chat-2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hosting/socket-chat-2/app/models/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/hosting/socket-chat-2/app/models/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hosting/socket-chat-2/public/chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/hosting/socket-chat-2/public/chat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hosting/socket-chat-2/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/hosting/socket-chat-2/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hosting/socket-chat-2/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/hosting/socket-chat-2/views/index.ejs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hosting/socket-chat-2" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AByhkWVDTFPQPnpEIaQpGc4ow3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/komar/Projects/socket-chat-group/hosting/schoolServer",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hosting/schoolServer" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a347bd53-6ad3-4c7a-92ae-54a603147551" name="Changes" comment="" />
+      <created>1654497395651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654497395651</updated>
+      <workItem from="1654497397827" duration="538000" />
+      <workItem from="1654578876305" duration="4810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
